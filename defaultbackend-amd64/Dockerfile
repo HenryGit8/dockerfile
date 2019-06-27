@@ -1,1 +1,1 @@
-k8s.gcr.io/defaultbackend-amd64:1.5
+kubectl create secret docker-registry ingresstest --docker-server=registry.cn-beijing.aliyuncs.com --docker-username=heyouchi2014@126.com --docker-password=zxlwan19960722
